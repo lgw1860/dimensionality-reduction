@@ -53,5 +53,6 @@ public class SpamPCA {
         	out.write("\n");
         }
         out.flush();
+        System.out.println("PCA done");
     }
 }

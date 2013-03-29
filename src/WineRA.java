@@ -53,6 +53,5 @@ public class WineRA {
         }
         out.flush();
         System.out.println("RA done");
-
     }
 }

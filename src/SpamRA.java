@@ -54,6 +54,6 @@ public class SpamRA {
         	out.write("\n");
         }
         out.flush();
-
+        System.out.println("RP done");
     }
 }

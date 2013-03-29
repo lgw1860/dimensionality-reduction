@@ -47,5 +47,6 @@ public class SpamICA_2 {
 	        	out.write("\n");
 	        }
 	        out.flush();
+	        System.out.println("ICA done");
 	    }
 }

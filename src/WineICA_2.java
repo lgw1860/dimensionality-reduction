@@ -47,6 +47,6 @@ public class WineICA_2 {
             out.write("\n");
           }
           out.flush();
-          System.out.println("LDA done");
+          System.out.println("ICA done");
       }
 }
